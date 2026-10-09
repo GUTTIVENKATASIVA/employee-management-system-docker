@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Node
+node_modules/
+frontend/dist/
+npm-debug.log*
+
+# Misc
+*.log
+.DS_Store
+.idea/
+.vscode/
+screenshots/
